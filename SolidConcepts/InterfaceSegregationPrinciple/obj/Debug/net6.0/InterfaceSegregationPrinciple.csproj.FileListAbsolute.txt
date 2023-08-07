@@ -1,0 +1,5 @@
+C:\ws-projetos\basic-examples-solid\SolidConcepts\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\ws-projetos\basic-examples-solid\SolidConcepts\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-projetos\basic-examples-solid\SolidConcepts\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\ws-projetos\basic-examples-solid\SolidConcepts\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\ws-projetos\basic-examples-solid\SolidConcepts\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
